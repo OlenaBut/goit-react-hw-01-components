@@ -1,8 +1,10 @@
 import { Profile } from './SocialProfile/Profile';
+import { Statistics } from './Statistics/Statistics';
 
 
 
 import user from './Data/user.json';
+import data from './Data/data.json';
 
 
 

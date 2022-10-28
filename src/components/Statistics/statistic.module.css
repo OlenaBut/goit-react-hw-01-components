@@ -1,0 +1,35 @@
+.statistics {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+
+}
+
+.title {
+    text-transform: uppercase;
+    color: grey;
+}
+
+.list {
+    display: flex;
+    margin: auto;
+    padding: 0;
+}
+
+.items {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    padding: 50px;
+
+}
+
+.label {
+    color: rgb(244, 237, 237);
+}
+
+.percentage {
+    font-weight: 700;
+    color: rgb(244, 237, 237);
+}
