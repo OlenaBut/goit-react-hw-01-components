@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/OlenaBut/goit-react-hw-01-components/static/css/main.0dfeae6a.css",
-    "main.js": "/OlenaBut/goit-react-hw-01-components/static/js/main.48b8bb32.js",
-    "index.html": "/OlenaBut/goit-react-hw-01-components/index.html",
-    "main.0dfeae6a.css.map": "/OlenaBut/goit-react-hw-01-components/static/css/main.0dfeae6a.css.map",
-    "main.48b8bb32.js.map": "/OlenaBut/goit-react-hw-01-components/static/js/main.48b8bb32.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.0dfeae6a.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.48b8bb32.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.0dfeae6a.css.map": "/goit-react-hw-01-components/static/css/main.0dfeae6a.css.map",
+    "main.48b8bb32.js.map": "/goit-react-hw-01-components/static/js/main.48b8bb32.js.map"
   },
   "entrypoints": [
     "static/css/main.0dfeae6a.css",
